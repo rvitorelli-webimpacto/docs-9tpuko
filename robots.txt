@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-temnqz.date-me.pro/sitemap.xml
